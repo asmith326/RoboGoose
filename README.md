@@ -4,6 +4,9 @@ The motivation behind this project was to create something to showcase the Compu
 
 We settled on a goose as they are infamous among the University at Buffalo campus.
 
+Arduiuno Mega code is contained within 'Arduino Mega main.cpp'
+The .ino files contain the code for each Arduino Nano ESP32 respectively
+
 Full design documentation can be found here: https://drive.google.com/file/d/1a4U_esqxt6miaWA_FRZ7XE4XjwnYuKd0/view?usp=sharing
 
 ---------------
